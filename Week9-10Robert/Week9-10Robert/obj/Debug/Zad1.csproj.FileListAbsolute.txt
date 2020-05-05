@@ -1,0 +1,6 @@
+C:\Users\Дмитрий Лаптев\source\repos\Week9-10Robert\Week9-10Robert\bin\Debug\Week9-10Robert.exe.config
+C:\Users\Дмитрий Лаптев\source\repos\Week9-10Robert\Week9-10Robert\bin\Debug\Week9-10Robert.exe
+C:\Users\Дмитрий Лаптев\source\repos\Week9-10Robert\Week9-10Robert\bin\Debug\Week9-10Robert.pdb
+C:\Users\Дмитрий Лаптев\source\repos\Week9-10Robert\Week9-10Robert\obj\Debug\Week9-10Robert.exe
+C:\Users\Дмитрий Лаптев\source\repos\Week9-10Robert\Week9-10Robert\obj\Debug\Week9-10Robert.pdb
+C:\Users\Дмитрий Лаптев\source\repos\Week9-10Robert\Week9-10Robert\obj\Debug\Zad1.csprojAssemblyReference.cache
